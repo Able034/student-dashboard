@@ -3,3 +3,4 @@ plotly
 ipywidgets
 matplotlib
 openpyxl
+voila
